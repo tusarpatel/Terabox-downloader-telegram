@@ -8,7 +8,8 @@ This bot allows you to download files from Terabox and more through Telegram.
  `BOT_TOKEN` : Telegram Bot Token
 
  `WEBHOOK_URL` : Webhook URL of bot (your server url)...
-
+# deploy on heroku
+   [![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tusarpatel/Terabox_downloader)
 Video Tutorial 
 [Deploy on Heroku{paid}](https://youtu.be/KECEaNLRP2Q?si=4Ml3y_ikoxwT0qDG)
 
